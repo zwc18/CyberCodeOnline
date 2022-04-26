@@ -1069,7 +1069,7 @@
  	 	 	 	 	 	"eng": "Acquire AI Cores"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "您可以通过以下方式获得AI核心： \n          - 在各个地方清除 \n          - 用哈希处理器和技术碎片制作 \n          - 在所有地点的敌人抢劫",
+ 	 	 	 	 	 	"trans": "您可以通过以下方式获得AI核心： \n          - 在各个地方清除 \n          - 用哈希处理器和技术碎片制作 \n          - 在所有地点的任意敌人上掉落",
  	 	 	 	 	 	"eng": "You may get AI Cores by: \n        - Scavenge in various locations\n        - Crafting with Hash Processors and Tech Scraps\n        - Looting from enemies in all locations"
  	 	 	 	 	}
  	 	 	 	},
